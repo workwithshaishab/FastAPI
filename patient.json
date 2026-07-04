@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 45,
+    "disease": "Hypertension"
+  },
+  {
+    "id": 2,
+    "name": "Emily Smith",
+    "age": 32,
+    "disease": "Diabetes"
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "age": 58,
+    "disease": "Asthma"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Williams",
+    "age": 27,
+    "disease": "Migraine"
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "age": 39,
+    "disease": "Fever"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Davis",
+    "age": 24,
+    "disease": "Allergy"
+  },
+  {
+    "id": 7,
+    "name": "James Wilson",
+    "age": 51,
+    "disease": "Arthritis"
+  },
+  {
+    "id": 8,
+    "name": "Emma Taylor",
+    "age": 30,
+    "disease": "Flu"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Anderson",
+    "age": 42,
+    "disease": "Pneumonia"
+  },
+  {
+    "id": 10,
+    "name": "Ava Thomas",
+    "age": 35,
+    "disease": "Anemia"
+  }
+]
