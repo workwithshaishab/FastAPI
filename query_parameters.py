@@ -17,6 +17,6 @@ def sort_patients(
         raise HTTPException(status_code= 400, detail= 'Inavalid request')
     
     data= load_data()
-    reverse = order.lower() == "desc"
-    data = sorted(data, key=lambda x: x[sort_by], reverse=reverse)
+    reverse = order.lower() == "desc"    # order.lower()== "desc" returns true or false 
+    data = sorted(data, key=lambda x: x[sort_by], reverse=reverse)    # The key tells Python what value to use for sorting.If sort_by= "age" then lambda becomes lambda x: x["age"]
     return data
